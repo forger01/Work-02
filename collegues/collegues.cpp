@@ -129,7 +129,7 @@ void main()
 	sizemas(fname, size);//нашли размер матрицы 
 	MakeMatrix(b, size[0], size[1]);//описание в методе
 	write(fname1, size[0], size[1], b);//вывод в файл
-	/**/
+	/*---*/
 }
 
 
